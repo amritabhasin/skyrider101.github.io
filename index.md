@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Summer 2020 DREU Project Site
+title: My site
 ---
 
 * TOC
@@ -10,16 +10,16 @@ title: Summer 2020 DREU Project Site
 
 My info goes here.
 
-## About My Mentor
+## 
+Job 1
 
-Mentor info goes here.
 
-## About My Project
+## Projects
 
 Project description goes here.
 
-[My Final Report](files/finalreport.pdf)
 
-## My Blog
 
-[My Blog](blog.html)
+## Other stuff
+
+
